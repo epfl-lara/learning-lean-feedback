@@ -18,6 +18,22 @@ Available in the Hugging Face collection [EPFL-LARA/learning-lean-feedback](http
 
 Lazar Milikic, Etienne Bamas, Emmanuel Abbe, Viktor Kunčak. *Learning Lean Feedback for Efficient Proof-Candidate Evaluation on GPUs.* NeurIPS 2026 Workshop on AI for Verifiable Coding (VeriCodeGen).
 
+## Citation
+
+If you use this work, please cite:
+
+```bibtex
+@misc{milikic2026learningleanfeedbackefficient,
+  title={Learning Lean Feedback for Efficient Proof-Candidate Evaluation on GPUs},
+  author={Lazar Milikic and Etienne Bamas and Emmanuel Abbe and Viktor Kunčak},
+  year={2026},
+  eprint={2610.21881},
+  archivePrefix={arXiv},
+  primaryClass={cs.LG},
+  url={https://arxiv.org/abs/2610.21881},
+}
+```
+
 ## License
 
 The code in this repository is released under the Apache License 2.0 (see [LICENSE](LICENSE)).
